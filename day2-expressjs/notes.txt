@@ -1,0 +1,55 @@
+Today's Topic -
+1. Understanding ExpressJS
+2. 
+
+
+
+Backend handles all the operations behind the scene.
+
+Protocols - set of rules 
+we use http as a server and they also use protocal are - hyper text transfer Protocols.
+
+req - acceptance of any API
+res - response to that API
+
+Protocols -
+http - 
+https - secure
+FTP - File transfer protocal (req, file, callback)
+SMTP - Simple mail transfer protocal (from, to, subject)
+Web - socket - Two way communication like chatting, video calling 
+
+
+
+Methods - 
+    REST API'scene -
+    represtantional state transfer
+
+All this perform in Database -
+    GET - Send data
+    POST - create/ saves something
+    PUT/ PATCH - update something
+    DELETE - Delete something
+
+
+
+CRUD Operations 
+
+Express is a framework for NodeJS
+He didn't know how to catch text data in request.
+So we use Express.json 
+
+request ke andar boot saari cheeze aati hai like - 
+        body - frontend se bheja hua data 
+        query - extra data in path while searching
+        porons - Dynamic URL
+        file/files - jab aata hai jab we use FTP
+
+
+
+REQUEST USES -  Express.json
+                it accept frontend data
+                body - form data
+                query - pagination (limit and skip)
+                porons - /products /id
+                files - 

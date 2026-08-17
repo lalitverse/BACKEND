@@ -1,0 +1,25 @@
+DATE = 14/08/2026.
+
+
+Server is a machinge who accept request and send response to the Frontend.
+
+What is difference between CPU and GPU?
+CPU: Handles a smaller number of complex tasks at a time with high speed.
+
+GPU: Handles thousands to millions of simpler operations simultaneously through massive parallel processing.
+
+
+In seaways their are many optic Fiber can comes from data centers to India.
+Then it will enter in Hub to store the internet then it will transfer to the towers so we can use internet.
+TATA Telecorn handles this optic cables.
+
+
+Internet is a path which is use for make a path for storage and server.
+Storage is a way to store data.
+Server is a machine which does operation and make the answer of the request.
+
+
+2008 se phele browser me  backend lekhna padhta tha. Ryan Dahl ne browser me se NodeJS alaga kar deya.
+NodeJS gives - 1. Networks like Http
+
+
