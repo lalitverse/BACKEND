@@ -1,0 +1,42 @@
+Today's topic - 
+        CRUD Operations
+        POSTMAN Uses
+        
+
+
+ExpressJs is a framework for NodeJS
+
+We learn http and in that they have protocals = req, res
+req = frontend se data lana/ catch karna
+res = response bhejna 
+
+req - 
+        body - JSON
+        query - extra cheeze jo aap API url me send karte ho
+        pornous - Dynamic Path
+        file/files - media transfer
+
+
+POSTMAN - virtual frontend 
+            use for testing API and running API
+
+
+CRUD Operation 
+        C - post 
+        R - get
+        U - put/Path
+        D - delete
+
+
+1. Send data to frontend - get
+2. get data from frontend - post
+        - body - (axio.port('url', data ))
+        - params
+        - query 
+3. delete data from Database - delete
+4. update Data - PUT and PATCH
+        PUT - pure object ko change kar deta hai 
+        PATCH = single entity ko change kar deta hai
+
+
+
