@@ -1,0 +1,24 @@
+HTTP Status Code
+1xx - infromation 
+2xx - Success
+3xx - Redirection
+4xx - Client Error
+5xx - Server Error
+
+
+Common Status Code
+
+200 - Success = Ok - the request was Success
+201 - Success = Created - A new resource has been Created
+204 - Success = No content - the request Succeeded but there is no body to return
+
+
+
+Mongoose - ODM(Object Data Management)
+
+
+
+Folder Structure 
+1. MVC - Model view Controller
+2. Layers
+3. Service Base
